@@ -1,2 +1,2 @@
 # static-webpage-demo
-* [panorama-deviceorientation](./panorama-deviceorientation/)
+* [panorama-deviceorientation](https://cycjimmy.github.io/static-webpage-demo/panorama-deviceorientation/)
